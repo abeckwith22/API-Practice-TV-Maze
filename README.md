@@ -1,7 +1,10 @@
 # API Practice: TV Maze
 
 
-###### You can find a page demonstrating this project here -> 
+You can find a page demonstrating this project here -> https://abeckwith22.github.io/API-Practice-TV-Maze/
+
+**^ NOTE: When you click on the link, the event listeners default to refreshing the page and don't actually access/use the APIs ^**
+
 
 ### My method of finishing this project
 ```js
